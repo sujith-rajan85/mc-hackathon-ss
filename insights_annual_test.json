@@ -1,0 +1,70 @@
+{
+  "summary": "You can save a total of $145.92 by switching to annual plans for your subscriptions.",
+  "cards": [
+    {
+      "subscription_id": "S001",
+      "merchant_name": "Netflix",
+      "plan_name": "Standard",
+      "category": "Streaming",
+      "annual_savings": 32.98,
+      "savings_pct": 16.67
+    },
+    {
+      "subscription_id": "S008",
+      "merchant_name": "Dropbox",
+      "plan_name": "Plus",
+      "category": "Cloud Storage",
+      "annual_savings": 31.89,
+      "savings_pct": 16.62
+    },
+    {
+      "subscription_id": "S002",
+      "merchant_name": "Disney+",
+      "plan_name": "Premium",
+      "category": "Streaming",
+      "annual_savings": 23.89,
+      "savings_pct": 16.6
+    },
+    {
+      "subscription_id": "S004",
+      "merchant_name": "Spotify",
+      "plan_name": "Individual",
+      "category": "Music",
+      "annual_savings": 21.89,
+      "savings_pct": 16.6
+    },
+    {
+      "subscription_id": "S005",
+      "merchant_name": "Apple Music",
+      "plan_name": "Individual",
+      "category": "Music",
+      "annual_savings": 21.89,
+      "savings_pct": 16.6
+    },
+    {
+      "subscription_id": "S006",
+      "merchant_name": "iCloud+",
+      "plan_name": "200GB",
+      "category": "Cloud Storage",
+      "annual_savings": 7.89,
+      "savings_pct": 16.48
+    },
+    {
+      "subscription_id": "S007",
+      "merchant_name": "Google One",
+      "plan_name": "100GB",
+      "category": "Cloud Storage",
+      "annual_savings": 5.49,
+      "savings_pct": 16.4
+    }
+  ],
+  "notes": [
+    "Consider switching to annual billing for subscriptions you plan to keep long-term.",
+    "Calculate break-even: if you cancel before 12 months, you may lose money on annual plans.",
+    "Contact merchant support to switch billing frequency\u2014some offer prorated upgrades."
+  ],
+  "called_tools": [
+    "annual_arbitrage"
+  ],
+  "as_of": "2025-11-30"
+}

@@ -1,0 +1,26 @@
+{
+  "summary": "No savings found by switching to annual plans.",
+  "cards": [
+    {
+      "id": "annual_arbitrage",
+      "title": "Annual vs. Monthly Savings Opportunities",
+      "severity": "low",
+      "confidence": 0.7,
+      "facts": {
+        "subscriptions_analyzed": 0,
+        "savings_opportunities": 0,
+        "note": "No savings found by switching to annual plans."
+      },
+      "recommended_actions": [
+        "Continue with monthly plans or review for other optimization opportunities."
+      ],
+      "supporting_items": [],
+      "generated_at": "2025-11-30T00:00:00"
+    }
+  ],
+  "notes": [],
+  "called_tools": [
+    "annual_arbitrage"
+  ],
+  "as_of": "2025-11-30"
+}

@@ -1,0 +1,27 @@
+user_id,subscription_id,merchant_id,plan_name,billing_frequency,start_date,next_billing_date,last_billed_date,status,subscription_amount
+1001,S001,1,Standard,monthly,2024-10-05,2025-12-05,2025-11-05,active,16.49
+1001,S002,2,Premium,monthly,2024-09-10,2025-12-10,2025-11-10,active,11.99
+1001,S003,20,Monthly,monthly,2025-09-01,2025-12-01,2025-11-01,active,19.99
+1001,S004,4,Individual,monthly,2024-08-07,2025-12-07,2025-11-07,active,10.99
+1001,S005,5,Individual,monthly,2024-07-15,2025-12-15,2025-11-15,active,10.99
+1001,S006,6,200GB,monthly,2024-06-01,2025-12-01,2025-11-01,active,3.99
+1001,S007,7,100GB,monthly,2024-05-20,2025-12-20,2025-11-20,active,2.79
+1001,S008,8,Plus,monthly,2024-04-01,2025-12-01,2025-11-01,active,15.99
+1001,S009,3,Prime Annual,annual,2024-03-05,2026-03-05,2025-03-05,active,139.0
+1001,S010,9,NYT Annual,annual,2024-03-12,2026-03-12,2025-03-12,active,120.0
+1001,S011,18,All Apps,annual,2024-03-20,2026-03-20,2025-03-20,active,359.88
+1001,S012,13,Essential,annual,2024-03-25,2026-03-25,2025-03-25,active,94.99
+1001,S013,10,Quarterly,quarterly,2025-01-01,2025-12-31,2025-10-01,active,26.97
+1001,S014,11,Semiannual,semiannual,2025-05-01,2026-05-01,2025-11-01,active,89.94
+1001,S015,12,Weekly Club,weekly,2025-10-01,2025-12-06,2025-11-29,active,4.99
+1001,S016,19,Biweekly,biweekly,2025-07-01,2025-12-08,2025-11-24,active,6.0
+1001,S017,17,Trial Plan,monthly,2025-11-20,2025-12-04,2025-11-20,trialing,9.99
+1001,S018,16,7-day Trial,monthly,2025-11-26,2025-12-03,2025-11-26,trialing,12.99
+1001,S019,14,Ultimate,monthly,2025-11-22,2025-12-06,2025-11-22,trialing,16.99
+1001,S020,2,Annual (old),annual,2024-08-01,2025-08-01,2025-07-01,cancelled,119.99
+1001,S021,4,Promo,monthly,2025-02-01,,2025-03-01,ended,0.99
+1001,S022,15,Electricity,monthly,2025-10-15,,2025-11-20,active,74.2
+1001,S023,7,Extra Storage,monthly,2025-08-01,2025-12-01,2025-11-01,active,
+1001,S024,999,Unknown,monthly,2025-09-15,2025-12-15,2025-11-15,active,5.55
+1001,S025,9,Odd Cadence,every 4 weeks,2025-05-10,2025-12-05,2025-11-07,active,6.5
+1001,S026,6,Old Plan,monthly,2024-12-01,,2025-08-01,active,3.99

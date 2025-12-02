@@ -1,0 +1,21 @@
+merchant_id,name,category,risk_score,has_free_trial,usual_trial_days,monthly_amount,annual_amount
+1,Netflix,Streaming,0.1,False,,16.49,164.90
+2,Disney+,Streaming,0.12,False,,11.99,119.99
+3,Amazon Prime,Streaming,0.08,True,30.0,,139.0
+4,Spotify,Music,0.09,True,30.0,10.99,109.99
+5,Apple Music,Music,0.09,True,30.0,10.99,109.99
+6,iCloud+,Cloud Storage,0.05,False,,3.99,39.99
+7,Google One,Cloud Storage,0.05,True,30.0,2.79,27.99
+8,Dropbox,Cloud Storage,0.07,True,30.0,15.99,159.99
+9,The New York Times,News,0.06,True,30.0,6.0,120.0
+10,The Athletic,News,0.1,True,30.0,8.99,89.99
+11,Peloton,Fitness,0.08,True,30.0,14.99,149.99
+12,Strava,Fitness,0.08,True,30.0,11.99,79.99
+13,PlayStation Plus,Gaming,0.09,False,,,94.99
+14,Xbox Game Pass,Gaming,0.09,True,14.0,16.99,
+15,Hydro One,Utilities,0.03,False,,,
+16,VPN SuperShield,Other,0.72,True,7.0,12.99,99.99
+17,Mystery Trial LLC,Other,0.88,True,14.0,9.99,
+18,Adobe Creative Cloud,Other,0.11,True,7.0,29.99,299.99
+19,Microsoft 365,Other,0.06,True,30.0,9.99,99.99
+20,Crave,Streaming,0.1,True,7.0,19.99,
